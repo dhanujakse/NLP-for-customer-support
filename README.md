@@ -1,6 +1,6 @@
 # NLP for Customer Support
 
-## 📌 Project Overview
+## Project Overview
 This project applies **Natural Language Processing (NLP)** techniques to improve customer support systems by automatically classifying and categorizing support tickets.  
 The goal is to minimize response time, reduce workload on agents, and enhance customer satisfaction.
 
@@ -36,14 +36,14 @@ The goal is to minimize response time, reduce workload on agents, and enhance cu
    cd NLP-for-Customer-Support
 ---
 
-## 📊 Results
+## Results
 - Logistic Regression: ~90% accuracy
 - Naive Bayes: Good for short queries
 - SVM: High accuracy but slower training
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 - Deploy as a chatbot or API
 - Use transformers (BERT/DistilBERT) for better accuracy
 - Add multi-lingual support
