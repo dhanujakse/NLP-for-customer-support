@@ -34,6 +34,8 @@ The goal is to minimize response time, reduce workload on agents, and enhance cu
 1. Clone the repository:
    git clone https://github.com/your-username/NLP-for-Customer-Support.git
    cd NLP-for-Customer-Support
+2. Install dependencies:
+   pip install -r requirements.txt
 ---
 
 ## Results
